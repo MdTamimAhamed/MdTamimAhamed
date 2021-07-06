@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MdTamimAhamed
 - 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning Java & Web Dev
+- 🌱 I’m currently learning Java, C++ & Web Dev
 - 💞️ I’m looking to collaborate on problem solving 
 - 📫 How to reach me tamimahamed016@gmail.com
