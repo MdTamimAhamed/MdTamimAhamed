@@ -5,14 +5,14 @@
 🔭I’m looking to collaborate on innovative projects involving UI/UX design and web development.
 
 ----------
-⚙️#__Tools__:
-  UI/UX: Figma/Adobe XD ||
-  Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
+⚙️# **Tools**:
+   - UI/UX: Figma/Adobe XD
+   - Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
 
 
-🤝#Reach me: 
-Email: tamimahamed016@gmail.com ||
-[Facebook](https://www.facebook.com/tamim.ssgt/)
+🤝# **Reach me**: 
++ Email: tamimahamed016@gmail.com
++ [Facebook](https://www.facebook.com/tamim.ssgt/)
 
 
 📌#Extra Skills:
