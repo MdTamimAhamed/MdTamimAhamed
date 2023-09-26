@@ -11,7 +11,7 @@ Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
 
 
 🤝Reach me: 
-[Email][tamimahamed016@gmail.com] ||
+Email: tamimahamed016@gmail.com ||
 [Facebook](https://www.facebook.com/tamim.ssgt/)
 
 
