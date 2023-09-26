@@ -6,8 +6,8 @@
 
 ----------
 ⚙️**Tools**:
-   - **UI/UX: _Figma/Adobe XD**_
-   - **Web: _React.js, TailwindCSS, Postman, MongoDB, MySQL**_
+   - **UI/UX: Figma/Adobe XD**
+   - **Web: React.js, TailwindCSS, Postman, MongoDB, MySQL**
 
 
 🤝**Reach me**: 
