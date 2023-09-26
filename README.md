@@ -4,12 +4,13 @@ Hi there!👋
 💡I’m currently learning new JavaScript frameworks (Express.js, Next.js) and enhancing my Python skills.
 🔭I’m looking to collaborate on innovative projects involving UI/UX design and web development.
 
--------
+----------
 Tools:
---------
-#UI/UX: Figma/Adobe XD
--------
-#Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
+
+UI/UX: Figma/Adobe XD
+
+
+Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
 
 
 🤝Reach me: 
