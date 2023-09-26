@@ -6,9 +6,7 @@ Hi there!👋
 
 ----------
 Tools:
-
 UI/UX: Figma/Adobe XD
-
 
 Web: React.js, TailwindCSS, Postman, MongoDB, MySQL
 
