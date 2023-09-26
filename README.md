@@ -15,8 +15,8 @@
 + [Facebook](https://www.facebook.com/tamim.ssgt/)
 
 
-📌#Extra Skills:
-Illustrator, Photoshop, 
-[Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
+📌**Extra Skills**:
+Illustrator, Photoshop
++ [Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
 
 
