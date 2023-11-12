@@ -19,10 +19,16 @@
 Illustrator, Photoshop
 + [Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed)
 
 
 
 
 
 
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed)
+
+
+
+
+                                                                                                         
