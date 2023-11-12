@@ -7,8 +7,14 @@
 ----------
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
-   - **Web: React.js, Express.js, Node.js, TailwindCSS, Postman, MongoDB, MySQL**
-   - [![Code Climate](https://img.shields.io/codeclimate/maintainability/MdTamimAhamed/MdTamimAhamed.svg)](https://codeclimate.com/github/MdTamimAhamed/MdTamimAhamed)
+   - **Web:**
+     + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
+     + ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
+     + ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+     + ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%231a202c?style=flat&logo=tailwind-css&logoColor=38B2AC)
+     + ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
+     + ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white)
+     + ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 
 
 🤝**Reach me**: 
