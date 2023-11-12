@@ -19,7 +19,8 @@
 Illustrator, Photoshop
 + [Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
 
-[![GitHub stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
+[![Profile Views](https://komarev.com/ghpvc/?username=your_username)](https://github.com/your_username)
+
 
 
 
