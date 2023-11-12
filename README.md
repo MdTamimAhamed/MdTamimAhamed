@@ -11,9 +11,9 @@
 
 
 🤝**Reach me**: 
-+ Email: tamimahamed016@gmail.com
-+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/tamim-ahamed-000432174/)
-+ [![Facebook](https://img.shields.io/badge)](https://www.facebook.com/tamim.ssgt)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=social&logo=gmail)](mailto:tamimahamed016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/tamim-ahamed-000432174/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://www.facebook.com/tamim.ssgt)
 
 
 📌**Extra Skills**:
