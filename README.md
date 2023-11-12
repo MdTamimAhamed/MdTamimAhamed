@@ -17,7 +17,8 @@
 
 
 📌**Extra Skills**:
-Illustrator, Photoshop
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+, ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%230077EE?style=flat&logo=adobe-photoshop&logoColor=white)
 + [Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
 
 
