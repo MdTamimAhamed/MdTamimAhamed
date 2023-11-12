@@ -19,5 +19,6 @@
 Illustrator, Photoshop
 + [Digital Artist at Fiverr](https://www.fiverr.com/tamimahamed365)
 
-![Visitor Count](https://profile-counter.glitch.me/{MdTamimAhamed}/count.svg)
+![Views](https://img.shields.io/github/views/MdTamimAhamed/your-repository?style=for-the-badge&color=blue)
+
 
