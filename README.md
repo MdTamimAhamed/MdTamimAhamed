@@ -31,6 +31,8 @@
 , ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%230077EE?style=flat&logo=adobe-photoshop&logoColor=Black)
 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
