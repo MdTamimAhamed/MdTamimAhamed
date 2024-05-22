@@ -17,6 +17,33 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 ### Skill & Tools:
 
+### Skill & Tools:
+
+<table>
+  <tr>
+    <td><strong>Programming Language:</strong></td>
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light" alt="Programming Languages">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Technologies:</strong></td>
+    <td align="left">
+      <ul>
+        <li>
+          <strong>Frontend:</strong>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 | **Programming Language:** | [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light)](https://skillicons.dev) |
 |--------------------------|-----------------------------------------------------------------------------------------|
 | **Technologies:**        |   - **Frontend:** [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light)](https://skillicons.dev) |
