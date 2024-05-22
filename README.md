@@ -1,3 +1,6 @@
+![Image Description](https://drive.google.com/uc?id=1QXnZGv2g4Imvg90RSDe8PdRvZOvPUqxh)
+
+
 ### Hi, I'm Tamim!👋
 
 I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js.
