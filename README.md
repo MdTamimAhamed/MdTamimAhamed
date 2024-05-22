@@ -8,8 +8,8 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 #  
 [![Profile views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed) 
 [![wakatime](https://wakatime.com/badge/user/3000cebe-b8ca-4031-af04-b46ea0d30afc.svg)](https://wakatime.com/@3000cebe-b8ca-4031-af04-b46ea0d30afc) 
-[![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 [![Last Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
+[![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
 # 
 
