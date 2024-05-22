@@ -10,7 +10,7 @@
 I'm a CS undergraduate, a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js. 
 I aim to leverage my skills and experience to create impactful software solutions that enhance user experiences and drive business success.
 
----
+# 
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
    - **Web:**
