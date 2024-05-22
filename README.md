@@ -84,15 +84,17 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 <table>
- <tr>
-  <td></td>
-  <td>
-    <a href="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg">
-    <a/>
-  </td>
- </tr>
+  <tr>
+    <td align="left">
+      <strong>
+        <a href="https://custom-icon-badges.demolab.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=white" alt="Machine Learning">
+        </a>
+      </strong>
+    </td>
+    <td align="left">Numpy, Pandas, Matplotlib, Scikit-Learn, NLTK, OpenCV, YOLO</td>
+  </tr>
 </table>
-
 
 # 
 
