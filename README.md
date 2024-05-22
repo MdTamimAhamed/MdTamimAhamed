@@ -139,13 +139,14 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 
-<div style="display: flex; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=radical" alt="GitHub Stats">
+<div style="display: inline-block; height: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 100%; width: auto;">
 </div>
 
-<div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=radical" alt="Top Languages">
+<div style="display: inline-block; height: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=radical" alt="Top Languages" style="height: 100%; width: auto;">
 </div>
+
 
 
 
