@@ -1,4 +1,4 @@
-![Image Description](https://drive.google.com/uc?id=1QXnZGv2g4Imvg90RSDe8PdRvZOvPUqxh)
+![Confidence Quote](https://drive.google.com/uc?id=1ZrSmTj9j6qg-UhvETdn_r1fvZYL0LG16)
 
 
 ### Hi, I'm Tamim!👋
