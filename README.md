@@ -17,7 +17,10 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 ### Let's connect 
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/) 
+
+[Contact me via email](mailto:tamimahamed016@gmail.com)
+
 
 ### Skills & Tools:
 <table>
@@ -106,6 +109,16 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
       </strong>
     </td>
     <td align="left">Project Management, Communication, Self-Learner</td>
+  </tr>
+ <tr>
+    <td align="left">
+      <strong>
+        <a href="https://custom-icon-badges.demolab.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/Problem%20Solving-white.svg?&logoColor=black" alt="Language">
+        </a>
+      </strong>
+    </td>
+    <td align="left">Becrowd(120), Codeforces(25), Leetcode(5)</td>
   </tr>
  <tr>
     <td align="left">
