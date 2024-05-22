@@ -139,15 +139,9 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 
-<div style="display: inline-block; height: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 100%; width: auto;">
-</div>
 
-<div style="display: inline-block; height: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=radical" alt="Top Languages" style="height: 100%; width: auto;">
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&bg_color=00000000)
 
 
 
