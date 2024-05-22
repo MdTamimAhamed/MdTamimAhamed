@@ -92,7 +92,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 </table>
 
 # 
-###Other 
+### Other 
 <table>
   <tr>
     <td align="left">
@@ -138,10 +138,8 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 
-🤝**Reach me**: 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=social&logo=gmail)](mailto:tamimahamed016@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/tamim-ahamed-000432174/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook)](https://www.facebook.com/tamim.ssgt)
+### Designer Profile
+**Digital Artist(Fiverr.com)**: [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/users/tamimahamed365)
 
 
 📌**Extra Skills**:
