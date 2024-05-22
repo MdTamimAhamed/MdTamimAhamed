@@ -30,10 +30,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
   </tr>
   <tr>
     <td><strong>Technologies:</strong></td>
-    <td align="left">
-     <tr>
-      <td>Frontend</td>
-     </tr>
+    <td align="left" rowspan="2">
       <ul>
         <li>
           <a href="https://skillicons.dev">
