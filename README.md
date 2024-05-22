@@ -10,14 +10,15 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 ### What I'm doing now? 
- - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern). 
+ - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern. 
  - Doing personal projects (MERN) and learning Java Spring Boot 
  - Working on a machine learning project (thesis)
 # 
 
 ### Skill & Tools:
 **Programming Language:** [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light)](https://skillicons.dev)
-   - **Web:**
+**Technologies:** 
+   - **Frontend:** [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light)](https://skillicons.dev)
      + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
      + ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
      + ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
