@@ -15,10 +15,10 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
  - Working on a machine learning project (thesis)
 # 
 
-### Skill & Tools:
+### Skills & Tools:
 <table>
   <tr>
-    <td><strong>Programming Languages</strong></td>
+    <td align="center"><strong>Programming Languages</strong></td>
     <td align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light" alt="Programming Languages">
@@ -26,7 +26,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     </td>
   </tr>
   <tr>
-    <td><strong>Technologies</strong></td>
+    <td align="center"><strong>Technologies</strong></td>
     <td>
       <table>
         <tr>
@@ -63,7 +63,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     </td>
   </tr>
  <tr>
-    <td><strong>Tools and Software</strong></td>
+    <td align="center"><strong>Tools and Softwares</strong></td>
     <td align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,idea,npm,postman,figma,xd,ps,ai&theme=light" alt="Programming Languages">
@@ -71,7 +71,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     </td>
   </tr>
   <tr>
-     <td><strong>Familiarities</strong></td>
+     <td align="center"><strong>Familiarities</strong></td>
       <td align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase,php,linux&theme=light" alt="Programming Languages">
