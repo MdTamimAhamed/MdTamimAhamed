@@ -94,7 +94,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 ### Other 
-<table>
+<table width="600px">
   <tr>
     <td align="left">
       <strong>
