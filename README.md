@@ -19,9 +19,11 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 ### Skill & Tools:
 
+### Skill & Tools:
+
 <table>
   <tr>
-    <td><strong>Programming Language:</strong></td>
+    <td><strong>Programming Languages:</strong></td>
     <td align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light" alt="Programming Languages">
@@ -30,22 +32,23 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
   </tr>
   <tr>
     <td><strong>Technologies:</strong></td>
-    <td align="left" >
-      <ul>
-       <li>
-         <tr>
-           <td>Frontend</td>
-         </tr>
-       </li>
-        <li>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
-          </a>
-        </li>
-      </ul>
+    <td>
+      <table>
+        <tr>
+          <td align="center"><strong>Frontend</strong></td>
+        </tr>
+        <tr>
+          <td align="left">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
      + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
