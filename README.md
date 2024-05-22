@@ -1,7 +1,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed)
 
 
-## Hello! Welcome to my profile!👋
+### Welcome to my profile!👋
 
 🛠️**I’m currently working on building exciting **MERN Stack** web applications**.
 💡**I’m currently learning new JavaScript frameworks (**Next.js**) and enhancing my Python skills**.
