@@ -139,7 +139,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 
-<div style="display: inline-block; vertical-align: top;">
+<div style="display: flex; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
