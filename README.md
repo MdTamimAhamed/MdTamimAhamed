@@ -83,7 +83,15 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 # 
 
-[![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg)](https://custom-icon-badges.demolab.com)
+<table>
+ <tr>
+  <td></td>
+  <td>
+    <a href="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg">
+    <a/>
+  </td>
+ </tr>
+</table>
 
 
 # 
