@@ -9,10 +9,9 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
 
 ### What I'm doing now? 
- - I'm working on some personal projects to showcase on my portfolio. 
- - I'm actively seeking opportunities to join a dynamic team as a (Full-stack Engineer | Frontend/Backend engineer role or Intern). 
- - Learning Java Spring Boot and Mobile Development. 
- - Working on machine learning project (final year thesis) 
+ - I'm actively seeking opportunities to join a dynamic team/environment as a (Full-stack Engineer | Frontend | Backend engineer role or Intern). 
+ - Doing personal projects (MERN) and learning Java Spring Boot 
+ - Working on a machine learning project (thesis)
 
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
