@@ -16,11 +16,6 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 ### Skill & Tools:
-
-### Skill & Tools:
-
-### Skill & Tools:
-
 <table>
   <tr>
     <td><strong>Programming Languages</strong></td>
@@ -51,6 +46,16 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
           <td align="left">
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=light" alt="Frontend Technologies">
+            </a>
+          </td>
+        </tr>
+       <tr>
+          <td align="center"><strong>Version Control</strong></td>
+        </tr>
+        <tr>
+          <td align="left">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,github&theme=light" alt="Frontend Technologies">
             </a>
           </td>
         </tr>
