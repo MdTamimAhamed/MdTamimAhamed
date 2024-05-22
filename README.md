@@ -62,6 +62,14 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
       </table>
     </td>
   </tr>
+ <tr>
+    <td><strong>Tools and Software</strong></td>
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,idea,npm,postman,figma,xd,ps,ai&theme=light" alt="Programming Languages">
+      </a>
+    </td>
+  </tr>
 </table>
 
 
