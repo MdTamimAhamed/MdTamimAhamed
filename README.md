@@ -75,6 +75,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
           </td>
         </tr>
       </table>
+     <td></td>
     </td>
   </tr>
  <tr>
@@ -126,7 +127,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
         </a>
       </strong>
     </td>
-    <td align="left">Becrowd(120), Codeforces(25), Leetcode(5)</td>
+    <td align="left">Beecrowd(120), Codeforces(25), Leetcode(5)</td>
   </tr>
  <tr>
     <td align="left">
@@ -136,13 +137,13 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
         </a>
       </strong>
     </td>
-    <td align="left">Bangla, English</td>
+    <td align="left">Bangla(native), English(fluent)</td>
   </tr>
 </table>
 
 # 
 
-### Stats
+### Stats...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&hide_title=true&number_format=long&bg_color=fffefe&ring_color=49BB31)
