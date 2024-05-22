@@ -147,8 +147,8 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=radical" alt="Top Languages" style="height: 100%; width: auto;">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&hide_progress=true)
 
 
 
