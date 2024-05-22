@@ -13,6 +13,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
  - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern. 
  - Doing personal projects (MERN) and learning Java Spring Boot 
  - Working on a machine learning project (thesis)
+ - Fiverr.com - Graphics design( Digital Artist) - part-time
 # 
 
 ### Skills & Tools:
