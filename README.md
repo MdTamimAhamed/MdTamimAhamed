@@ -70,6 +70,14 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
       </a>
     </td>
   </tr>
+ <tr>
+    <td><strong>Familiarities</strong></td>
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase,php,linux&theme=light" alt="Programming Languages">
+      </a>
+    </td>
+  </tr>
 </table>
 
 
