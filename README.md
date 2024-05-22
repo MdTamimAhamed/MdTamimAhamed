@@ -44,6 +44,16 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
             </a>
           </td>
         </tr>
+       <tr>
+          <td align="center"><strong>Backend</strong></td>
+        </tr>
+        <tr>
+          <td align="left">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
+            </a>
+          </td>
+        </tr>
       </table>
     </td>
   </tr>
