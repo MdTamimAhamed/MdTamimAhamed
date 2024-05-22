@@ -85,6 +85,8 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-Learn,  NLTK, OpenCV, YOLO 
 
 **Soft Skill:** Project Management, Communication, Self-Learner
+[![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?logo=paintbrush&logoColor=white)](https://custom-icon-badges.demolab.com)
+
 # 
 
 🤝**Reach me**: 
