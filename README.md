@@ -23,9 +23,9 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/) . 
 [![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
 # 
-### Portfolio 
-**See Projects:**  [Visit my portfolio](https://tamimz-portfolio.vercel.app/)
-
+### Personal Portfolio 
+**See all of my projects here:**  **[[https://tamimz-portfolio.vercel.app](https://tamimz-portfolio.vercel.app/)**
+# 
 ### Skills & Tools:
 <table>
   <tr>
