@@ -23,7 +23,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 <table>
   <tr>
-    <td><strong>Programming Languages:</strong></td>
+    <td><strong>Programming Languages</strong></td>
     <td align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light" alt="Programming Languages">
@@ -31,7 +31,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     </td>
   </tr>
   <tr>
-    <td><strong>Technologies:</strong></td>
+    <td><strong>Technologies</strong></td>
     <td>
       <table>
         <tr>
@@ -40,7 +40,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
         <tr>
           <td align="left">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
+              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,bootstrap,nextjs&theme=light" alt="Frontend Technologies">
             </a>
           </td>
         </tr>
@@ -50,7 +50,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
         <tr>
           <td align="left">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
+              <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=light" alt="Frontend Technologies">
             </a>
           </td>
         </tr>
