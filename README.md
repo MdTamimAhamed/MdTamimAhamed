@@ -3,14 +3,14 @@
 [![Last Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
 
-----------
+---
 
 ### Hi,👋
 
 I'm a CS undergraduate, a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js. 
 I aim to leverage my skills and experience to create impactful software solutions that enhance user experiences and drive business success.
 
-----------
+---
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
    - **Web:**
