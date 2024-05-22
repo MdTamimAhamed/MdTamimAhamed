@@ -15,6 +15,9 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
  - Working on a machine learning project (thesis)
  - Fiverr.com - Graphics design( Digital Artist) - part-time
 # 
+### Let's connect 
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/)
 
 ### Skills & Tools:
 <table>
@@ -82,7 +85,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 </table>
 
 # 
-
+###Other 
 <table>
   <tr>
     <td align="left">
