@@ -30,8 +30,13 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
   </tr>
   <tr>
     <td><strong>Technologies:</strong></td>
-    <td align="left" rowspan="2">
+    <td align="left" >
       <ul>
+       <li>
+         <tr>
+           <td>Frontend</td>
+         </tr>
+       </li>
         <li>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
