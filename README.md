@@ -88,10 +88,6 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left"><strong>[![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=white)](https://custom-icon-badges.demolab.com)</strong></td>
     <td align="left">Numpy, Pandas, Matplotlib, Scikit-Learn, NLTK, OpenCV, YOLO</td>
   </tr>
- <tr>
-    <td align="left"><strong>[![Soft Skills](https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=white)](https://custom-icon-badges.demolab.com)</strong></td>
-    <td align="left">Project Management, Communication, Self-Learner</td>
-  </tr>
 </table>
 
 # 
