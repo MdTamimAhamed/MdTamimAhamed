@@ -10,11 +10,11 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
 # 
 
-### What I'm doing now? 
+### What I'm doing currently? 
  - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern. 
  - Doing personal projects (MERN) and learning Java Spring Boot 
  - Working on a machine learning project (thesis)
- - Fiverr.com - Graphics design( Digital Artist) - part-time
+ - Fiverr.com - Graphics design( Digital Artist) - Part-time
 # 
 ### Let's connect 
 
@@ -144,7 +144,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&hide_title=true&number_format=long&bg_color=fffefe&ring_color=49BB31)
 
-
+Thanks for visiting my profile!
 
 
 
