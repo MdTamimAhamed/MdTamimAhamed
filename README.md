@@ -16,7 +16,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 ### Skill & Tools:
-**Programming Language:** [![My Skills](https://skillicons.dev/icons?i=c,c++,java,kotlin,python,js)](https://skillicons.dev)
+**Programming Language:** [![Programming Languages](https://skillicons.dev/icons?i=c,cplusplus,javascript,java,kotlin,python,sql&theme=light)](https://skillicons.dev) Programming Languages
    - **Web:**
      + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
      + ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
