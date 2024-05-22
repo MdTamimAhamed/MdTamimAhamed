@@ -1,13 +1,18 @@
 ### Hi, I'm Tamim!👋
 
-I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js. 
-I'm actively seeking opportunities to join a dynamic team as a (Full-stack Engineer | Frontend/Backend engineer role) to leverage my skills and experience to create impactful software solutions that enhance user experiences and drive business success.
+I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js.
 
 #  
 [![Profile views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed) 
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 [![Last Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
+
+### What I'm doing now? 
+ - I'm working on some personal projects to showcase on my portfolio. 
+ - I'm actively seeking opportunities to join a dynamic team as a (Full-stack Engineer | Frontend/Backend engineer role or Intern). 
+ - Learning Java Spring Boot and Mobile Development. 
+ - Working on machine learning project (final year thesis) 
 
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
