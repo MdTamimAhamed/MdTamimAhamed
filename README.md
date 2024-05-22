@@ -88,11 +88,31 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left">
       <strong>
         <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=white" alt="Machine Learning">
+          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=black" alt="Machine Learning">
         </a>
       </strong>
     </td>
     <td align="left">Numpy, Pandas, Matplotlib, Scikit-Learn, NLTK, OpenCV, YOLO</td>
+  </tr>
+ <tr>
+    <td align="left">
+      <strong>
+        <a href="https://custom-icon-badges.demolab.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=black" alt="Machine Learning">
+        </a>
+      </strong>
+    </td>
+    <td align="left">Project Management, Communication, Self-Learner</td>
+  </tr>
+ <tr>
+    <td align="left">
+      <strong>
+        <a href="https://custom-icon-badges.demolab.com">
+          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-blue.svg?&logoColor=black" alt="Language">
+        </a>
+      </strong>
+    </td>
+    <td align="left">Bangla, English</td>
   </tr>
 </table>
 
