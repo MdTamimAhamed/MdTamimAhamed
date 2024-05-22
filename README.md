@@ -1,11 +1,10 @@
 [![Profile views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed)
 
 
-### Welcome to my profile!👋
+### Hi,👋
 
-🛠️**I’m currently working on building exciting **MERN Stack** web applications**.
-💡**I’m currently learning new JavaScript frameworks (**Next.js**) and enhancing my Python skills**.
-🔭**I’m looking to collaborate on innovative projects involving UI/UX design and web development**.
+**I'm a CS undergraduate, a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js. 
+I aim to leverage my skills and experience to create impactful software solutions that enhance user experiences and drive business success.**.
 
 ----------
 ⚙️**Tools**:
