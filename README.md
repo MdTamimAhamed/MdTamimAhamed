@@ -17,10 +17,10 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 ### Let's connect 
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/)  
-[![Contact me via email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:tamimahamed016@gmail.com)  
-[![Connect with me on Telegram](https://img.shields.io/badge/Telegram-Connect-blue?style=flat&logo=telegram)](https://t.me/Tamim_Tomim)  
-[![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/)  
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/) 
+[![Contact me via email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:tamimahamed016@gmail.com)
+[![Connect with me on Telegram](https://img.shields.io/badge/Telegram-Connect-blue?style=flat&logo=telegram)](https://t.me/Tamim_Tomim)
+[![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/)
 [![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
 # 
 
