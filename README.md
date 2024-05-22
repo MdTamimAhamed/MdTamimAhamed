@@ -1,11 +1,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=MdTamimAhamed)](https://github.com/MdTamimAhamed) 
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
-[![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
-[![Total Contributions](https://img.shields.io/badge/Total%20Contributions-YourContributions-blue)](https://github.com/MdTamimAhamed)
+[![Contributions](https://img.shields.io/github/contributions/MdTamimAhamed/MdTamimAhamed)](https://github.com/MdTamimAhamed)
 [![Last Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/network/members)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdTamimAhamed)](https://github.com/MdTamimAhamed)
+[![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
 
 
 
