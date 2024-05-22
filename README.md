@@ -139,7 +139,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 ### Designer Profile
-**Digital Artist(Fiverr.com)**: [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/users/tamimahamed365)
+**Digital Artist**:  **[![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/users/tamimahamed365)**
 
 
 📌**Extra Skills**:
