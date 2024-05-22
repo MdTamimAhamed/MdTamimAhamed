@@ -7,11 +7,13 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 [![Last Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
 [![Stars](https://img.shields.io/github/stars/MdTamimAhamed/MdTamimAhamed.svg?style=social)](https://github.com/MdTamimAhamed/MdTamimAhamed/stargazers)
+# 
 
 ### What I'm doing now? 
  - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern). 
  - Doing personal projects (MERN) and learning Java Spring Boot 
  - Working on a machine learning project (thesis)
+# 
 
 ⚙️**Tools**:
    - **UI/UX: Figma/Adobe XD**
