@@ -1,7 +1,7 @@
 ![Confidence Quote](https://drive.google.com/uc?id=1ZrSmTj9j6qg-UhvETdn_r1fvZYL0LG16)
 
 
-### Hi, I'm Tamim!👋
+### Hey, I'm Tamim!👋
 
 I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js.
 
@@ -28,7 +28,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
 # 
 ### Personal Portfolio 
-**Live projects:**  **<a href="https://tamimz-portfolio.vercel.app/" target="_blank">https://tamimz-portfolio.vercel.app</a>**
+ - **Live projects:**  **<a href="https://tamimz-portfolio.vercel.app/" target="_blank">https://tamimz-portfolio.vercel.app</a>**
 # 
 ### Skills & Tools:
 <table>
@@ -75,7 +75,6 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
           </td>
         </tr>
       </table>
-     <td></td>
     </td>
   </tr>
  <tr>
