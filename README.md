@@ -15,8 +15,8 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
  - Working on a machine learning project (thesis)
 # 
 
-⚙️**Tools**:
-   - **UI/UX: Figma/Adobe XD**
+### Skill & Tools:
+   - **Programming Language: ** 
    - **Web:**
      + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
      + ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
