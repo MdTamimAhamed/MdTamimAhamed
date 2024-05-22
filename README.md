@@ -31,9 +31,11 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
   <tr>
     <td><strong>Technologies:</strong></td>
     <td align="left">
+     <tr>
+      <td>Frontend</td>
+     </tr>
       <ul>
         <li>
-          <strong>Frontend:</strong>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light" alt="Frontend Technologies">
           </a>
@@ -43,10 +45,6 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
   </tr>
 </table>
 
-
-| **Programming Language:** | [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light)](https://skillicons.dev) |
-|--------------------------|-----------------------------------------------------------------------------------------|
-| **Technologies:**        |   - **Frontend:** [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nextjs&theme=light)](https://skillicons.dev) |
 
      + ![React.js](https://img.shields.io/badge/React.js-%2361DAFB?style=flat&logo=react&logoColor=white)
      + ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
