@@ -102,7 +102,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left">
       <strong>
         <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-orange.svg?&logoColor=black" alt="Machine Learning">
+          <img src="https://custom-icon-badges.demolab.com/badge/ML-orange.svg?&logoColor=black" alt="ML">
         </a>
       </strong>
     </td>
@@ -122,7 +122,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left">
       <strong>
         <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Problem%20Solving-green.svg?&logoColor=black" alt="Language">
+          <img src="https://custom-icon-badges.demolab.com/badge/Problem%20Solve-green.svg?&logoColor=black" alt="Language">
         </a>
       </strong>
     </td>
@@ -132,7 +132,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left">
       <strong>
         <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Communication-white.svg?&logoColor=black" alt="Language">
+          <img src="https://custom-icon-badges.demolab.com/badge/Language-white.svg?&logoColor=black" alt="Language">
         </a>
       </strong>
     </td>
