@@ -27,7 +27,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 [![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/) . 
 [![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
 # 
-### Personal Portfolio 
+### Personal Portfolio Website
  - **Live projects:**  **<a href="https://tamimz-portfolio.vercel.app/" target="_blank">https://tamimz-portfolio.vercel.app</a>**
 # 
 ### Skills & Tools:
@@ -122,21 +122,11 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
     <td align="left">
       <strong>
         <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Problem%20Solve-green.svg?&logoColor=black" alt="Language">
-        </a>
-      </strong>
-    </td>
-    <td align="left">Beecrowd(120), Codeforces(25), Leetcode(5)</td>
-  </tr>
- <tr>
-    <td align="left">
-      <strong>
-        <a href="https://custom-icon-badges.demolab.com">
           <img src="https://custom-icon-badges.demolab.com/badge/Language-white.svg?&logoColor=black" alt="Language">
         </a>
       </strong>
     </td>
-    <td align="left">Bangla(native), English(fluent)</td>
+    <td align="left">Bangla, English</td>
   </tr>
 </table>
 
