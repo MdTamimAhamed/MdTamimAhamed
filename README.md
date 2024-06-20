@@ -116,7 +116,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
         </a>
       </strong>
     </td>
-    <td align="left">Project Management, Communication, Self-Learner</td>
+    <td align="left">Project Management, Self-Learner, Problem solving, Communication</td>
   </tr>
  <tr>
     <td align="left">
