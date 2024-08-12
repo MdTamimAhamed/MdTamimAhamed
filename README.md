@@ -131,8 +131,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 # 
 
 ### Stats...
-- **Current Streak**: 10 days (From 2024-07-01 to 2024-07-10)
-- **Longest Streak**: 20 days (From 2024-06-01 to 2024-06-20)
+![Streak Badge](https://img.shields.io/badge/streak-1234%20days%20as%20of%20August%2013%2C%202024-brightgreen)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact) 
