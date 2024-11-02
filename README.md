@@ -132,7 +132,7 @@ I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a stron
 
 ### Stats...
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=dark&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&hide_title=true&number_format=long&bg_color=fffefe&ring_color=49BB31)
 
 
