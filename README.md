@@ -3,18 +3,8 @@
 [![Latest Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">Tamim Ahamed</h1>
-
-<p align="center">Frontend Developer | UI/UX</p>
-
-
-
-
 ![Confidence Quote](https://drive.google.com/uc?id=1ZrSmTj9j6qg-UhvETdn_r1fvZYL0LG16)
-<p align="right">
-  <img src="https://i.postimg.cc/13X8k48M/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-</p>
+
 
 
 
