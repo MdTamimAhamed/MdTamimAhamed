@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 
 <p align="center">
-  <img src="https://i.postimg.cc/xC8R49Kz/gray.png" width="150" style="border-radius: 50%;">
+   <img src="https://i.postimg.cc/xC8R49Kz/gray.png" width="150" style="border-radius: 50%;" alt="Profile Picture">
 </p>
 
 <h1 align="center">Hi there 👋</h1>
