@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 
 ![Confidence Quote](https://drive.google.com/uc?id=1ZrSmTj9j6qg-UhvETdn_r1fvZYL0LG16)
-![Confidence Quote](https://drive.google.com/uc?id=1yQ5_lkhkSrxlLAA08AHL9lqopPISuT6T)
+![Confidence Quote]([![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://i.postimg.cc/13X8k48M/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](https://postimg.cc/bZXYbyH2))
 
 
 ### Hey, I'm Tamim!👋
