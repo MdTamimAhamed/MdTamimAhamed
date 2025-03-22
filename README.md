@@ -5,7 +5,7 @@
 
 ![Confidence Quote](https://drive.google.com/uc?id=1ZrSmTj9j6qg-UhvETdn_r1fvZYL0LG16)
 <p align="right">
-  <img src="https://i.postimg.cc/13X8k48M/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
+  <img src="https://i.postimg.cc/13X8k48M/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
 </p>
 
 
