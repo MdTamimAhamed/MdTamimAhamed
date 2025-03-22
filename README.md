@@ -3,10 +3,6 @@
 [![Latest Commit](https://img.shields.io/github/last-commit/MdTamimAhamed/MdTamimAhamed.svg)](https://github.com/MdTamimAhamed/MdTamimAhamed/commits/main)
 [![Followers](https://img.shields.io/github/followers/MdTamimAhamed?style=social)](https://github.com/MdTamimAhamed)
 
-<p align="center">
-   <img src="https://i.postimg.cc/xC8R49Kz/gray.png" width="150" style="border-radius: 50%;" alt="Profile Picture">
-</p>
-
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">Tamim Ahamed</h1>
 
