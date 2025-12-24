@@ -32,83 +32,11 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 
 ## 🚀 Tech Stack
 
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,materialui,bootstrap,nodejs,express,fastapi,mongodb,postgres,mysql,git,github&theme=light" />
+### Web
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,materialui,nodejs,fastapi,postgres,mongodb,git,github&theme=light" />
 
----
-
-### 📱 Mobile Development
+### Mobile
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,spring,docker&theme=light" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" height="48" style="border-radius:12px" />
-
-
-# 
-### Tech Stack:
-<table>
-  <tr>
-    <td align="center"><strong>Programming Languages</strong></td>
-    <td align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=typescript,javascript,kotlin,python&theme=light" alt="Programming Languages">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Technologies</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center"><strong>Frontend</strong></td>
-        </tr>
-        <tr>
-          <td align="left">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,bootstrap,nextjs&theme=light" alt="Frontend Technologies">
-            </a>
-          </td>
-        </tr>
-       <tr>
-          <td align="center"><strong>Backend</strong></td>
-        </tr>
-        <tr>
-          <td align="left">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=light" alt="Frontend Technologies">
-            </a>
-          </td>
-        </tr>
-       <tr>
-          <td align="center"><strong>Version Control</strong></td>
-        </tr>
-        <tr>
-          <td align="left">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,github&theme=light" alt="Frontend Technologies">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
- <tr>
-    <td align="center"><strong>Tools and Softwares</strong></td>
-    <td align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,idea,npm,postman,figma,xd,ps,ai&theme=light" alt="Programming Languages">
-      </a>
-    </td>
-  </tr>
-  <tr>
-     <td align="center"><strong>Familiarities</strong></td>
-      <td align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase,php,linux&theme=light" alt="Programming Languages">
-        </a>
-     </td>
-   </tr>
-</table>
-
-# 
 
 
 Thanks for visiting my profile! 
