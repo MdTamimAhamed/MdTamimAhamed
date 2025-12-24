@@ -27,7 +27,7 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,spring&theme=light" />
 
 #### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,,docker,githubactions,jenkins,redis,supabase,vscode,vercel,aws,figma,ai&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,jenkins,redis,supabase,vscode,vercel,aws,figma,ai&theme=light" />
 
 #
 
