@@ -30,13 +30,13 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 ### Website
  - **Visit:**  **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
 # 
-### Skills & Tools:
+### Tech Stack:
 <table>
   <tr>
     <td align="center"><strong>Programming Languages</strong></td>
     <td align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,kotlin,python&theme=light" alt="Programming Languages">
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,kotlin,python&theme=light" alt="Programming Languages">
       </a>
     </td>
   </tr>
