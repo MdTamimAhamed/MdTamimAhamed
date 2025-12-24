@@ -38,8 +38,8 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 ---
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jetpackcompose,firebase,spring,docker&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,spring,docker&theme=light" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 
 
 # 
