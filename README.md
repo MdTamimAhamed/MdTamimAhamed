@@ -29,6 +29,25 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 # 
 ### Website
  - **Visit:**  **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
+
+## 🚀 Tech Stack
+
+### 🌐 Web Development
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python&theme=light" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,bootstrap&theme=light" />
+
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql&theme=light" />
+
+**Version Control**  
+<img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+
+---
+
 # 
 ### Tech Stack:
 <table>
