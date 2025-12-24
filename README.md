@@ -24,12 +24,11 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/) . 
 [![Contact me via email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:tamimahamed016@gmail.com) . 
-[![Connect with me on Telegram](https://img.shields.io/badge/Telegram-Connect-blue?style=flat&logo=telegram)](https://t.me/Tamim_Tomim) . 
 [![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/) . 
 [![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
 # 
-### Personal Portfolio Website
- - **Live projects:**  **<a href="https://tamimz-portfolio.vercel.app/" target="_blank">https://tamimz-portfolio.vercel.app</a>**
+### Website
+ - **Visit:**  **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
 # 
 ### Skills & Tools:
 <table>
@@ -97,49 +96,6 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 </table>
 
 # 
-### Other 
-<table width="600px">
-  <tr>
-    <td align="left">
-      <strong>
-        <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/ML-orange.svg?&logoColor=black" alt="ML">
-        </a>
-      </strong>
-    </td>
-    <td align="left">Numpy, Pandas, Matplotlib, Scikit-Learn, NLTK, OpenCV, YOLO</td>
-  </tr>
- <tr>
-    <td align="left">
-      <strong>
-        <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Soft%20Skills-blue.svg?&logoColor=black" alt="Soft Skills"></a>
-        </a>
-      </strong>
-    </td>
-    <td align="left">Project Management, Self-Learner, Problem solving, Communication</td>
-  </tr>
- <tr>
-    <td align="left">
-      <strong>
-        <a href="https://custom-icon-badges.demolab.com">
-          <img src="https://custom-icon-badges.demolab.com/badge/Language-white.svg?&logoColor=black" alt="Language">
-        </a>
-      </strong>
-    </td>
-    <td align="left">Bangla, English</td>
-  </tr>
-</table>
-
-# 
-
-### Stats...
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTamimAhamed&layout=compact&theme=dark&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdTamimAhamed&show_icons=true&hide_title=true&number_format=long&bg_color=fffefe&ring_color=49BB31)
-
-
-
 
 
 Thanks for visiting my profile! 
