@@ -27,7 +27,7 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="400" />
+      <img src="https://skillicons.dev/icons?i=vercel&theme=light" height="20" width="400" />
       <strong> bracketbuildstudio.com</strong>
     </td>
     <td align="right">
