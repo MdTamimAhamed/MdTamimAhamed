@@ -10,7 +10,7 @@
 
 ### Hey, I'm Tamim!👋
 
-I'm a CS undergraduate and a passionate Full-stack (MERN) developer with a strong foundation in building dynamic and scalable web applications using MongoDB/PostgreSQL, Express.js, React, Typescript, Tailwindcss, and Node.js.
+A Software Engineer at Intelsense with hands-on experience in building full-stack web applications using React and Next.js, supported by backend services in Node.js or FastAPI and PostgreSQL/MongoDB. Currently expanding into mobile development with Kotlin, Jetpack Compose, and Spring Boot.
 
 #
 
