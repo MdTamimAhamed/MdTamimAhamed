@@ -15,9 +15,10 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 #
 
 ### What I'm doing currently? 
- - I'm actively seeking opportunities to join a dynamic team/environment with a role | Intern. 
- - Doing personal projects and learning different technologies of development 
- - Fiverr.com - Graphics design( Digital Artist) - Part-time
+- Working as a Software Engineer at Intelsense.
+- Actively building personal projects while deepening my skills in mobile development using Kotlin and Jetpack Compose.
+- Exploring Spring Boot to strengthen backend development with Kotlin.
+  
 # 
 ### Let's connect 
 
