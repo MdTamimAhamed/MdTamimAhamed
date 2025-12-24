@@ -33,20 +33,14 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 ## 🚀 Tech Stack
 
 ### 🌐 Web Development
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python&theme=light" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,bootstrap&theme=light" />
-
-**Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql&theme=light" />
-
-**Version Control**  
-<img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,materialui,bootstrap,nodejs,express,fastapi,mongodb,postgres,mysql,git,github&theme=light" />
 
 ---
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jetpackcompose,firebase,spring,docker&theme=light" />
+
+
 
 # 
 ### Tech Stack:
