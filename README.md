@@ -22,19 +22,25 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 
 ### 🌐 Website
 
-### 🌐 Website
-
-<table width="400" cellpadding="0" cellspacing="0">
+<table width="500" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=light" height="20" width="20" />
+    <td align="left" width="350">
+      <img
+        src="https://bracketbuildstudio.com/_next/image?url=%2Ffb_page_BBS_logo_main.png&w=64&q=75"
+        width="22"
+        height="22"
+        style="vertical-align:middle;"
+      />
       <strong> bracketbuildstudio.com</strong>
     </td>
-    <td align="right">
-      <a href="https://bracketbuildstudio.com" target="_blank"><strong>Visit ↗</strong></a>
+    <td align="right" width="150">
+      <a href="https://bracketbuildstudio.com" target="_blank">
+        <strong>Visit ↗</strong>
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
