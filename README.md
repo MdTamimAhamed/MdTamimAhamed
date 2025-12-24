@@ -12,14 +12,12 @@
 
 A Software Engineer at Intelsense with hands-on experience in building full-stack web applications using React and Next.js, supported by backend services in Node.js or FastAPI and PostgreSQL/MongoDB. Currently expanding into mobile development with Kotlin, Jetpack Compose, and Spring Boot.
 
-#
-
 ### What I'm doing currently? 
 - Working as a Software Engineer at Intelsense.
 - Actively building personal projects while deepening my skills in mobile development using Kotlin and Jetpack Compose.
 - Exploring Spring Boot to strengthen backend development with Kotlin.
   
-
+#
 
 ### Tech Stack
 #### Web
