@@ -22,7 +22,20 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 
 ### 🌐 Website
 
-<table cellpadding="0" cellspacing="0"> <tr> <td> <div style="display:flex;align-items:center;gap:10px;"> <img src="https://bracketbuildstudio.com/_next/image?url=%2Ffb_page_BBS_logo_main.png&w=64&q=75" width="12" height="12" style="border-radius:6px;" /> <a href="https://bracketbuildstudio.com" target="_blank" style="font-weight:600;font-size:14px;text-decoration:none!;color:#0969da;" >  bracketbuildstudio.com </a> </div> </td> </tr> </table>
+<div style="display:flex;align-items:center;gap:10px;">
+  <img
+    src="https://bracketbuildstudio.com/_next/image?url=%2Ffb_page_BBS_logo_main.png&w=64&q=75"
+    width="28"
+    height="28"
+    style="border-radius:6px;"
+  />
+  <a href="https://bracketbuildstudio.com" target="_blank">
+    <span style="font-weight:600;font-size:14px;color:#0969da;text-decoration:none;">
+      bracketbuildstudio.com
+    </span>
+  </a>
+</div>
+
 
 
 ### Tech Stack
