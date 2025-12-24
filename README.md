@@ -19,16 +19,25 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 - Actively building personal projects while deepening my skills in mobile development using Kotlin and Jetpack Compose.
 - Exploring Spring Boot to strengthen backend development with Kotlin.
   
-# 
-### Let's connect 
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/) . 
-[![Contact me via email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:tamimahamed016@gmail.com) . 
-[![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/) . 
-[![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
-# 
-### Website
- - **Visit:**  **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
+### 🌐 Website
+
+<table>
+  <tr>
+    <td width="120"><strong>Website</strong></td>
+    <td>
+      <a href="https://bracketbuildstudio.com" target="_blank"><strong>Visit ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="24" />
+      <strong> bracketbuildstudio.com</strong>
+    </td>
+  </tr>
+</table>
+
 
 ### Tech Stack
 #### Web
@@ -41,9 +50,16 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,redis,supabase,vscode,vercel,aws,figma,ai&theme=light" />
 
 
+# 
+### Let's connect 
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tamim-ahamed-000432174/) . 
+[![Contact me via email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat&logo=gmail)](mailto:tamimahamed016@gmail.com) . 
+[![Follow me on Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/tamim_ahamed_zan/) . 
+[![Connect with me on Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/tamim.ssgt/)
+# 
 
 Thanks for visiting my profile! 
-
 #Happy_Coding
 
 
