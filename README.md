@@ -31,14 +31,12 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
  - **Visit:**  **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
 
 ### Tech Stack
-#### Web
+##### Web
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,materialui,nodejs,fastapi,postgres,mongodb&theme=light" />
-
-#### Mobile
+##### Mobile
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,spring,docker&theme=light" />
-
-#### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,redis,supabase,neon,vscode,insomnia,vercel,aws,figma,ai&theme=light" />
+##### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,redis,supabase,vscode,vercel,aws,figma,ai&theme=light" />
 
 
 
