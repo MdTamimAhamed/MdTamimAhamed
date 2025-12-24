@@ -22,7 +22,25 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 
 ### 🌐 Website
 
-<table width="100%" cellpadding="0" cellspacing="0"> <tr> <td> <div style=" display:flex; align-items:center; justify-content:space-between; background:#f6f8fa; padding:14px 16px; border-radius:12px; "> <!-- Left: Logo + Text --> <div style=" display:flex; align-items:center; gap:12px; "> <img src="https://bracketbuildstudio.com/_next/image?url=%2Ffb_page_BBS_logo_main.png&w=64&q=75" width="32" height="32" style="border-radius:8px;" /> <div style="display:flex;flex-direction:column;"> <span style="font-weight:600;font-size:14px;line-height:1.2;"> bracketbuildstudio.com </span> <span style="font-size:12px;color:#57606a;"> hello@bracketbuildstudio.com </span> </div> </div>
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <div style="width:1000px;display:flex;align-items:center;justify-content:space-between;background:#f6f8fa;padding:14px 18px;border-radius:12px;">
+        <div style="display:flex;align-items:center;gap:14px;">
+          <img src="https://bracketbuildstudio.com/_next/image?url=%2Ffb_page_BBS_logo_main.png&w=64&q=75" width="36" height="36" style="border-radius:8px;" />
+          <div style="display:flex;align-items:center;gap:12px;">
+            <span style="font-weight:600;font-size:14px;">bracketbuildstudio.com</span>
+            <span style="color:#57606a;font-size:13px;">hello@bracketbuildstudio.com</span>
+          </div>
+        </div>
+        <a href="https://bracketbuildstudio.com" target="_blank" style="display:flex;align-items:center;height:36px;padding:0 16px;background:#0969da;color:#ffffff;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;">
+          Visit
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 
