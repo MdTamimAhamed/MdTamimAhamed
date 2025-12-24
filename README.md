@@ -31,7 +31,7 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 #### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,redis,supabase,vscode,vercel,aws,figma,ai&theme=light" />
 
-
+#
 
 ### Website
 - **Visit:** **<a href="https://bracketbuildstudio.com" target="_blank">bracketbuildstudio.com</a>**
