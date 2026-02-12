@@ -15,13 +15,13 @@ A Software Engineer at Intelsense with hands-on experience in building full-stac
 ### Current Focus 
 - Working as a Software Engineer at Intelsense.
 - Developing mobile applications with Kotlin and Jetpack Compose through hands-on projects.
-- Expanding backend capabilities using Spring Boot with Kotlin.
+- Expanding backend capabilities using FastAPI with Python.
   
 #
 
 ### Tech Stack
 #### Mobile
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,spring&theme=light" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=light" />
 
 #### Web
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,materialui,nodejs,fastapi,postgres,mongodb&theme=light" />
