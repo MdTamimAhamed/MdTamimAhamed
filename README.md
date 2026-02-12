@@ -10,7 +10,7 @@
 
 ### Hey, I'm Tamim!👋
 
-A Software Engineer at Intelsense with hands-on experience in building full-stack web applications using React and Next.js, supported by backend services in Node.js or FastAPI and PostgreSQL/MongoDB. Currently expanding into mobile development with Kotlin, Jetpack Compose, and Spring Boot.
+A Software Engineer at Intelsense with hands-on experience in building full-stack web applications using React and Next.js, supported by backend services in Node.js or FastAPI and PostgreSQL/MongoDB. Currently expanding into mobile development with Android Studio, Kotlin and Jetpack Compose.
 
 ### Current Focus 
 - Working as a Software Engineer at Intelsense.
